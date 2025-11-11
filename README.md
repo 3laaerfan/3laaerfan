@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_pounded.gif?raw=true" width="60%" alt="welcome"/>
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Welcome"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Alaa Erfan</h1>
