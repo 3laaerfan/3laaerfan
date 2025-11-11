@@ -32,6 +32,7 @@
 ## 🧰 Tech Stack
 
 ### 🖥 Backend
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat&logo=.NET&logoColor=white)
 ![Web API](https://img.shields.io/badge/Web_API-5C2D91?style=flat&logo=.NET&logoColor=white)
