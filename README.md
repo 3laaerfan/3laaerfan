@@ -1,40 +1,59 @@
 <!-- Banner -->
 <p align="center">
-  <img src="banner.png" alt="Alaa Erfan Banner" width="100%" />
+  <img src="banner.png" alt="banner" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Alaa 👋</h1>
-<h3 align="center">Full Stack .NET Developer</h3>
+<h1 align="center">👋 Hi, I'm Alaa Erfan</h1>
+<h3 align="center">Full Stack .NET Developer | Building Scalable Real-World Applications</h3>
 
 <p align="center">
-  I build clean, scalable web apps using ASP.NET Core, C#, Angular, and SQL Server.<br>
-  Passionate about clean code, real-world problem solving, and continuous learning.
+  Passionate about clean code, problem-solving, and building practical solutions using ASP.NET Core, Angular, and SQL Server.
+</p>
+
+<br/>
+
+## 🤝 Connect with Me
+<p align="left">
+  <a href="mailto:alaa@alaaerfan.com"><img src="https://img.shields.io/badge/Email-alaa%40alaaerfan.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://linkedin.com/in/alaa-erfan"><img src="https://img.shields.io/badge/LinkedIn-Alaa%20Erfan-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/3laaerfan"><img src="https://img.shields.io/badge/GitHub-3laaerfan-lightgrey?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
 
-### 🚀 Tech I Use
-**Backend:** ASP.NET Core · Web API · C# · EF Core · SignalR  
-**Frontend:** Angular · TypeScript · JS · HTML · CSS · Bootstrap  
-**Database:** SQL Server  
-**Tools:** Git · GitHub · Swagger · Postman · Visual Studio  
+## 🧰 Tech Stack
+
+**Backend:**  
+`ASP.NET Core` · `Web API` · `C#` · `EF Core` · `LINQ` · `SignalR` · `Clean Architecture`
+
+**Frontend:**  
+`Angular` · `TypeScript` · `JavaScript` · `HTML` · `CSS` · `Bootstrap`
+
+**Database:**  
+`SQL Server`
+
+**Tools:**  
+`Git` · `GitHub` · `Swagger` · `Postman` · `Visual Studio`
 
 ---
 
-### 🌟 Featured Projects
-| Project | Description | Demo |
-|--------|-------------|------|
-| **Inventory Management System** | Real-time inventory, reporting & roles system. | https://inventorysystem1.runasp.net/ |
-| **Taswaq E-Commerce** | Simple shopping SPA using local storage. | https://3laaerfan.github.io/Taswaq |
-| **Product CRUD App** | Manage products locally in the browser. | https://3laaerfan.github.io/product-management-system/ |
+## ⭐ Featured Projects
+
+| Project | Description | Live Demo |
+|--------|-------------|-----------|
+| **Inventory Management System** | Real-time inventory + reporting system. | https://inventorysystem1.runasp.net/ |
+| **Taswaq E-Commerce SPA** | Lightweight shopping UI with dynamic product store. | https://3laaerfan.github.io/Taswaq |
+| **Product Management CRUD App** | Simple product manager using local storage. | https://3laaerfan.github.io/product-management-system/ |
 
 ---
 
-### 📬 Connect With Me
-- LinkedIn: https://linkedin.com/in/alaa-erfan  
-- GitHub: https://github.com/3laaerfan  
-- Email: **alaa@alaaerfan.com**
+## 🏆 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3laaerfan&theme=tokyonight" alt="GitHub Streak"/>
+</p>
 
 ---
 
-<p align="center">"Coding is not just about building projects — it's about building yourself."</p>
+<p align="center">✨ "We rise by continuously improving, not by rushing." ✨</p>
+
