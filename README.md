@@ -61,17 +61,15 @@
 
 ## 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3laaerfan&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3laaerfan&theme=tokyonight"/>
 </p>
 
 ---
 
 <p align="center">✨ "Code with clarity. Build with purpose." ✨</p>
-
 <div align="center">
-  ![snake gif](https://github.com/3laaerfan/3laaerfan/blob/output/github-snake-dark.svg)
+  
+![snake gif](https://github.com/3laaerfan/3laaerfan/blob/output/github-snake-dark.svg)
 </div>
-
-
 
 
