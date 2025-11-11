@@ -67,3 +67,11 @@
 ---
 
 <p align="center">✨ "Code with clarity. Build with purpose." ✨</p>
+
+<div align="center">
+  ![snake gif](https://github.com/3laaerfan/3laaerfan/blob/output/github-snake-dark.svg)
+</div>
+
+
+
+
