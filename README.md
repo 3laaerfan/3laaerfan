@@ -120,22 +120,6 @@ I am a **Full Stack .NET Developer** skilled in building scalable web applicatio
 ---
 [![](https://visitcount.itsvg.in/api?id=3laaerfan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3laaerfan&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3laaerfan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Streak Stats](https://streak-stats.demolab.com/?user=3laaerfan&theme=radical)](https://git.io/streak-stats)
-
-## 🏆 GitHub Trophies
-[![Trophies](https://github-profile-trophy.vercel.app/?username=3laaerfan&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-
-
 
 
 
