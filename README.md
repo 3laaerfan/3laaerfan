@@ -18,9 +18,6 @@
   <a href="mailto:alaa@alaaerfan.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/201090847628">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
   <a href="https://alaaerfan.com/">
     <img src="https://img.shields.io/badge/Portfolio-alaaerfan.com-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
